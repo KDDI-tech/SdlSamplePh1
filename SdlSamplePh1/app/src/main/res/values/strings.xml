@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_id">8675309</string>
+    <string name="app_name">SdlSamplePh1</string>
+
+    <!-- NotificationChannel -->
+    <string name="notif_channel_id">sdl_demo_notif_channel_id</string>
+    <string name="notif_channel_name">sdl_demo_notif_channel_name</string>
+    <string name="notif_channel_desctiption">sdl_demo_notif_channel_description</string>
+
+    <!-- Notification -->
+    <string name="notif_content_title">SDL Demo Application</string>
+    <string name="notif_content_text">起動の準備が整いました！安全運転を心がけてください</string>
+
+    <!-- LockScreen Text -->
+    <string name="lockscreen_img_description">LockScreenImage</string>
+    <string name="lockscreen_textview">走行中の操作は危険ですのでロックしています。</string>
+
+    <!-- Command Menu -->
+    <string name="cmd_howtouser">使い方</string>
+    <string name="cmd_exit">アプリケーションの終了</string>
+
+    <!-- SdlService text -->
+    <string name="hello_msg_1">これからあなたの運転のサポートを担当させていただきます</string>
+    <string name="hello_msg_2">お力になれるよう精一杯がんばりますね</string>
+    <string name="sorry_msg_1">ご乗車中のお車ではお手伝い出来ることがなさそうです</string>
+    <string name="sorry_msg_2">別のお車にてお試しください</string>
+    <string name="low_of_pressure">の空気圧が低くなっています</string>
+    <string name="detect_fault">に異常を検知しました</string>
+    <string name="tire_frontLeft">左前部</string>
+    <string name="tire_frontRight">右前部</string>
+    <string name="tire_rearLeft">左後部</string>
+    <string name="tire_rearRight">右後部</string>
+    <string name="tire_inLeft">左中部</string>
+    <string name="tire_inRight">右中部</string>
+    <string name="fuel_under30">そろそろガソリンスタンドを探しましょう</string>
+    <string name="fuel_notif1">燃料の残量が</string>
+    <string name="fuel_notif2">％になりました。</string>
+    <string name="headlight_off_msg_1">ヘッドライトが点灯していませんか？</string>
+    <string name="headlight_off_msg_2">まだ明るいようなので、消灯してはいかがでしょうか？</string>
+    <string name="headlight_on_msg_1">ヘッドライトが点灯していませんが大丈夫ですか？</string>
+    <string name="headlight_on_msg_2">安全運転を心がけてください。</string>
+
+
+    <!-- Main Activity -->
+    <string name="connect_to_sdl">接続</string>
+    <string name="action_service_close">serviceClosed</string>
+
+
+</resources>
